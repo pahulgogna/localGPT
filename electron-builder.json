@@ -1,0 +1,9 @@
+{
+    "appId": "com.pg.agent",
+    "files": ["dist-react", "dist-electron"],
+    "extraResources": ["dist-electron/preload.cjs"],
+    "linux": {
+        "target": "deb",
+        "category": "Utility"
+    }
+}

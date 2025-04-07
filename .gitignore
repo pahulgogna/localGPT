@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 dist-electron
+dist
 dist-react
 *.local
 
@@ -22,3 +23,4 @@ dist-react
 *.njsproj
 *.sln
 *.sw?
+src/electron/shellCommands.ts
