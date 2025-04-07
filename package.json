@@ -7,7 +7,7 @@
   "author": {
     "name": "Pahul Gogna",
     "email": "pahulgogna@gmail.com",
-    "url": "http://github.com/pahulgogna"
+    "url": "http://github.com/pahulgogna/localGPT"
   },
   "scripts": {
     "dev:react": "vite",
